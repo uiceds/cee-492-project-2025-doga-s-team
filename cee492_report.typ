@@ -1,13 +1,12 @@
 #import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
-  title: [Report Template],
+  title: [TEST TITLE DOGA MUTIS],
   abstract: [
-    This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
-  ],
+    TEST ABSTRACT DOGA MUTIS],
   authors: (
     (
-      name: "Author 1",
+      name: "DOGA MUTS",
       department: [Department 1],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
